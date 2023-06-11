@@ -1,0 +1,3 @@
+	2161007	|	sobin	|	sibichen	|	sobin@gmail.com	|	male
+	2161009	|	Arshal 	|	jo	|	arshal@gmail.com	|	male
+	2161008	|	Amal	|	Jomi	|	amal@gmail.com	|	male

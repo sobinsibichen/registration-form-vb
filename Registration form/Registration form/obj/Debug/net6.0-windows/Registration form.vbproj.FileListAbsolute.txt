@@ -1,0 +1,19 @@
+D:\sample projects\Registration form\Registration form\obj\Debug\net6.0-windows\Registration form.vbproj.AssemblyReference.cache
+D:\sample projects\Registration form\Registration form\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\sample projects\Registration form\Registration form\obj\Debug\net6.0-windows\Registration form.vbproj.ResolveComReference.cache
+D:\sample projects\Registration form\Registration form\obj\Debug\net6.0-windows\Registration_form.Form1.resources
+D:\sample projects\Registration form\Registration form\obj\Debug\net6.0-windows\Registration form.vbproj.GenerateResource.cache
+D:\sample projects\Registration form\Registration form\obj\Debug\net6.0-windows\Registration form.GeneratedMSBuildEditorConfig.editorconfig
+D:\sample projects\Registration form\Registration form\obj\Debug\net6.0-windows\Registration form.AssemblyInfoInputs.cache
+D:\sample projects\Registration form\Registration form\obj\Debug\net6.0-windows\Registration form.AssemblyInfo.vb
+D:\sample projects\Registration form\Registration form\obj\Debug\net6.0-windows\Registration form.vbproj.CoreCompileInputs.cache
+D:\sample projects\Registration form\Registration form\bin\Debug\net6.0-windows\Registration form.exe
+D:\sample projects\Registration form\Registration form\bin\Debug\net6.0-windows\Registration form.deps.json
+D:\sample projects\Registration form\Registration form\bin\Debug\net6.0-windows\Registration form.runtimeconfig.json
+D:\sample projects\Registration form\Registration form\bin\Debug\net6.0-windows\Registration form.dll
+D:\sample projects\Registration form\Registration form\bin\Debug\net6.0-windows\Registration form.pdb
+D:\sample projects\Registration form\Registration form\obj\Debug\net6.0-windows\Registration form.dll
+D:\sample projects\Registration form\Registration form\obj\Debug\net6.0-windows\refint\Registration form.dll
+D:\sample projects\Registration form\Registration form\obj\Debug\net6.0-windows\Registration form.pdb
+D:\sample projects\Registration form\Registration form\obj\Debug\net6.0-windows\Registration form.genruntimeconfig.cache
+D:\sample projects\Registration form\Registration form\obj\Debug\net6.0-windows\ref\Registration form.dll
